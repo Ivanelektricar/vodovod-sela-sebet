@@ -13,7 +13,7 @@ const Gallery: React.FC = () => {
   const defaultPhotos: Photo[] = [
     {
       id: 1,
-      src: "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      src: "gallery/3.jpg",
       caption: "Извор водовода на планини изнад села Шебет",
       location: "Извор"
     },
