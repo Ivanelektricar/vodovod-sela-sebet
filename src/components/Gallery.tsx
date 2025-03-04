@@ -43,7 +43,7 @@ const Gallery: React.FC = () => {
     },
     {
       id: 6,
-      src: "https://images.unsplash.com/photo-1590496793929-36417d3117de?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      src: "gallery/6.png",
       caption: "Мештани током акције одржавања водоводне мреже",
       location: "Одржавање"
     }
