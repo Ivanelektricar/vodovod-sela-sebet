@@ -19,7 +19,7 @@ const Gallery: React.FC = () => {
     },
     {
       id: 2,
-      src: "https://images.unsplash.com/photo-1581244277943-fe4a9c777189?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      src: "gallery/CanonPowerShot.JPG",
       caption: "Главни резервоар за воду капацитета 50.000 литара",
       location: "Резервоар"
     },
