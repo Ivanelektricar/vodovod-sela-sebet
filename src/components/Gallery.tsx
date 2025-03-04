@@ -20,24 +20,24 @@ const Gallery: React.FC = () => {
     {
       id: 2,
       src: "gallery/CanonPowerShot.JPG",
-      caption: "Главни резервоар за воду капацитета 50.000 литара",
+      caption: "Главни резервоар за воду капацитета 25.000 литара",
       location: "Резервоар"
     },
     {
       id: 3,
-      src: "https://images.unsplash.com/photo-1584824388878-91a76c1dc4e1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      src: "gallery/3.jpg",
       caption: "Централна пумпна станица која обезбеђује притисак у мрежи",
       location: "Пумпна станица"
     },
     {
       id: 4,
-      src: "https://images.unsplash.com/photo-1543674892-7d64d45facad?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      src: "gallery/3.jpg",
       caption: "Јавна чесма у центру села - омиљено место окупљања",
       location: "Јавна чесма"
     },
     {
       id: 5,
-      src: "https://images.unsplash.com/photo-1588796388882-a634d398a6e9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      src: "gallery/3.jpg",
       caption: "Лабораторија за контролу квалитета воде",
       location: "Лабораторија"
     },
